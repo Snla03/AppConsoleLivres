@@ -22,9 +22,9 @@ namespace AppConsoleLivres
 
         }
         //Afficher les details de la classse livre 
-        public void AfficherDetails()
+        public virtual void AfficherDetails()
         {
-            Console.WriteLine($"Tire: {Titre}, Auteur: {Auteur}, NombrePages:{NombrePages} ");
+            Console.WriteLine($"Titre: {Titre}, Auteur: {Auteur}, NombrePages:{NombrePages} ");
         }
     }
 }

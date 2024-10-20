@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppConsoleLivres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81c3980634a7fdfe303b1e3fe27266186d9297f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16af881d5753fd4e0e00616c0fe0e0f460128c94")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppConsoleLivres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppConsoleLivres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
