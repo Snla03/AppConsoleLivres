@@ -17,3 +17,20 @@ foreach (Revue Revues in ListRevues)
 {
     Revues.AfficherDetails();
 }
+// creer une liste  pour stocker les objets Roman
+List<Roman> ListRomans = new List<Roman>();
+
+// les objest de la classe Roman
+Roman r1 = new Roman("quatre mariage une lune de miel", "Evelyne Mpoudi Ngole", 146, "Tragedie");
+Roman r2 = new Roman("sous la cendre le feu", "Emile Roland", 88, "Tragedie");
+Roman r3 = new Roman("petit JOE enfant des rues", "Evelyne Mpoudi Ngole", 112, "Comedie");
+// ajoutons les objets a la liste 
+ListRomans.Add(r1);
+ListRomans.Add(r2);
+ListRomans.Add(r3);
+
+Console.WriteLine("Liste des Romans : ");
+foreach (Roman Roman in ListRomans)
+{
+    Roman.AfficherDetails();
+}
