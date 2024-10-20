@@ -34,3 +34,18 @@ foreach (Roman Roman in ListRomans)
 {
     Roman.AfficherDetails();
 }
+//gestions des intances  de la classes livre
+List<Livre> ListLivres = new List<Livre>();
+ListLivres.Add(R1);
+ListLivres.Add(R2);
+ListLivres.Add(R3);
+ListLivres.Add(r1);
+ListLivres.Add(r2);
+ListLivres.Add(r3);
+
+Console.WriteLine("Liste des livres : ");
+foreach (Livre livre in ListLivres)
+{
+    livre.AfficherDetails();
+}
+
