@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ateliers\\git\\AppConsoleLivres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\ateliers\\git\\appconsolelivres\\appconsolelivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\ateliers\\git\\appconsolelivres\\appconsolelivres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\ateliers\\git\\appconsolelivres\\appconsolelivres\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\ateliers\\git\\appconsolelivres\\appconsolelivres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2666B823-4D0B-40A4-94EB-0CD9B8A13334}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Program.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Program.cs",
+              "ToolTip": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Program.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:16:58.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Livre.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Livre.cs",
+              "ToolTip": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Livre.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Livre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:58:44.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roman.cs",
+              "DocumentMoniker": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Roman.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Roman.cs",
+              "ToolTip": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Roman.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Roman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:05:15.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revue.cs",
+              "DocumentMoniker": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Revue.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Revue.cs",
+              "ToolTip": "C:\\ateliers\\git\\AppConsoleLivres\\AppConsoleLivres\\Revue.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Revue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:40:42.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
